@@ -7,7 +7,7 @@ Its a flask initiazizer ( to struct your project )
 ```
 1. git clone https://github.com/pedrohrb/intzl
 2. cd intzl
-3. ./flask-intzl --name "nametoproject"
+3. ./target/release/flask-intzl --name "nametoproject"
 ```
 
 ### Happy code (:
